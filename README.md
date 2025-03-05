@@ -1,13 +1,13 @@
-?# api-gerenciador-eventos
+# api-gerenciador-eventos
 
 ##### Api feita com intuito de treinar o desenvolvmento web com ASP.NET Core
 
-A api em questão tem as funções de CRUD de eventos e local
+A api em questÃ£o tem as funÃ§Ãµes de CRUD de eventos e local
 
-Não conta com autenticação
+NÃ£o conta com autenticaÃ§Ã£o
 
-### Simples porém funcional
+### Simples porÃ©m funcional
 
 A api conta com os endpoint de Crud tanto dos Eventos, quanto das Localidade, e podem ser testada pelo swagger.
 
-Os endpoints de consulta de eventos conta com um relacionamento com localidades onde vem junto as informações de localidades daquele evento
+Os endpoints de consulta de eventos conta com um relacionamento com localidades onde vem junto as informaÃ§Ãµes de localidades daquele evento
