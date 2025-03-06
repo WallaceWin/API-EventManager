@@ -1,4 +1,4 @@
-# api-gerenciador-eventos
+# api de gerenciamento de eventos
 
 ##### Api feita com intuito de treinar o desenvolvmento web com ASP.NET Core
 
